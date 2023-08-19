@@ -76,7 +76,7 @@ class Effect {
     this.width = this.canvas.width;
     this.height = this.canvas.height;
     this.particles = [];
-    this.numberOfParticles = 500;
+    this.numberOfParticles = 100;
     this.cellSize = 20;
     this.rows;
     this.cols;
